@@ -1,0 +1,11 @@
+{
+  "name": "@chan-woobaek/utilities",
+  "version": "1.0.0",
+  "description": "personal library for components and packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
