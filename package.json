@@ -1,6 +1,6 @@
 {
   "name": "@chan-woobaek/utilities",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "personal library for components and packages",
   "main": "index.js",
   "scripts": {
