@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@Chan-WooBaek:registry": "https://npm.pkg.github.com"
+    "@chan-woobaek:registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "react": "^18.2.0"
